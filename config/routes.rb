@@ -1,6 +1,10 @@
 Rails.application.routes.draw do
 
 
+  get 'scale3/index'
+
+  get 'scale2/index'
+
   get 'scale/index'
 
   get 'done/index'

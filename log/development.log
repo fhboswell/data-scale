@@ -1,0 +1,1371 @@
+Started GET "/" for 127.0.0.1 at 2018-05-03 00:54:07 -0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb
+  Rendered welcome/index.html.erb (4596.5ms)
+Completed 200 OK in 4609ms (Views: 4602.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:54:14 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 141ms (Views: 138.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:55:48 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 74ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:56:05 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 83ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:56:11 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_navigation.html.erb (0.6ms)
+  Rendered shared/_instructions.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 95ms (Views: 92.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:56:48 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 85ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:57:12 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 91ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:57:13 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 76ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:57:29 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 60ms (Views: 58.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:58:23 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 69ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:58:40 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 73ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:58:51 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 71ms (Views: 68.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 00:59:01 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.6ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 68ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:00:07 -0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 460ms (Views: 452.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:00:37 -0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 394ms (Views: 384.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:01:03 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 47ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:01:22 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 60ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:01:45 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 60ms (Views: 57.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:02:00 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 50ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:02:40 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 50ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:08:57 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:10:07 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:10:36 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:10:49 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 43.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:12:26 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 52ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:14:43 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 45ms (Views: 42.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:15:05 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:15:19 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:15:40 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:15:54 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 48ms (Views: 46.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:16:11 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:16:55 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:17:13 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:17:48 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 38ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:18:13 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 50ms (Views: 47.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:18:17 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:18:24 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_navigation.html.erb (0.2ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 34ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:18:46 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:18:51 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 50ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:18:58 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 44ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:19:21 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 42ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:19:47 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:20:08 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:20:14 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 52ms (Views: 49.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:20:19 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 47ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:20:25 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 48ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:21:12 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 61ms (Views: 58.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:21:24 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 53ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:21:30 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.8ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 59ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:21:55 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:22:18 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 43ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:22:57 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:26:30 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:26:31 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 52ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:26:42 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:26:48 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:26:55 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:27:42 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 45ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:27:50 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:27:57 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:28:08 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:28:19 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:28:32 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 50ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:28:46 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:30:13 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 44ms (Views: 41.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:32:14 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:33:54 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:34:26 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:34:44 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:35:21 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 43ms (Views: 41.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:37:46 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:38:22 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:38:36 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:38:49 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:38:50 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:37 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 41.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:44 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:44 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 48ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:45 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 47ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:48 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:52 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 43.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:39:58 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 48ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:40:09 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 49ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:40:27 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 50ms (Views: 47.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:40:59 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.2ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:42:41 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:42:56 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:43:07 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 46ms (Views: 43.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:43:23 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 46ms (Views: 44.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:43:51 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:44:04 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 40ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:44:34 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 41ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:44:35 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 41ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:45:01 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 41ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:46:07 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:46:40 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 74ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:46:48 -0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (1.2ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 298ms (Views: 288.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:47:04 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 71ms (Views: 69.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:47:55 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navigation.html.erb (0.6ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.7ms)
+Completed 200 OK in 95ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:48:11 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 80ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:48:26 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 65ms (Views: 62.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:48:33 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 66ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:48:53 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 72ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:48:59 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 65ms (Views: 63.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:49:30 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 62ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:49:42 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 75ms (Views: 72.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:50:27 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 66ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:50:44 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 66ms (Views: 63.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:50:55 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (7.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 75ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:51:03 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 65ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:51:10 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 63ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:51:21 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 68ms (Views: 65.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:51:39 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 61ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:52:42 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 59ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:53:16 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 74ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:54:16 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 64ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:55:14 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.1ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 50ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:55:36 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 74ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:55:46 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 58ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:56:10 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.9ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 90ms (Views: 87.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:56:53 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.8ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 87ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:57:28 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 69ms (Views: 67.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:57:38 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.6ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 66ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:58:04 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 71ms (Views: 68.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:58:15 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 66ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:58:40 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 65ms (Views: 62.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:59:00 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.8ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 72ms (Views: 69.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:59:08 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.6ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 67ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:59:14 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 62ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:59:26 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 66ms (Views: 64.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 01:59:50 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 61ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 02:00:22 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 66ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 02:01:00 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 75ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 02:01:34 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 64ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 02:02:08 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.9ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 66ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 02:02:12 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (0.9ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+  Rendered shared/_instructions.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 74ms (Views: 71.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/scale/index" for 127.0.0.1 at 2018-05-03 02:02:14 -0700
+Processing by ScaleController#index as HTML
+  Rendering scale/index.html.erb within layouts/application
+  Rendered scale/index.html.erb within layouts/application (1.3ms)
+  Rendered shared/_navigation.html.erb (0.5ms)
+  Rendered shared/_instructions.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 90ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+

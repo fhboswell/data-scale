@@ -1,0 +1,515 @@
+<div class="row justify-content-md-center">
+        <div class="col-lg-2 ">
+        	.
+        </div>
+        <div class="col-lg-8 align-items-center">
+          <h3>Suppose you are selecting a house. You want a house that is simultaneously of suitable quality and suitable location.</h3>
+          <ul>
+            
+        <li>The QUALITY row contains the degree of satisfaction with the quality of constuction of the house.</li>
+        <li>The LOCATION row contains the degree of satisfaction with the quality of location of the house. </li>
+        <li>Consider that QUALITY and LOCATION are equally important for you.</li>
+        <li>It is NOT acceptable to have even the highest QUALITY home in an unacceptable LOCATION</li>
+           <li>It is NOT acceptable to have a home in the best LOCATION with unacceptable QUALITY</li>
+        <li>Please carefully select your overall degree of satisfaction with each QUALITY/LOCATION combination</li>
+        <li>You may select any value in the overall satisfaction menu</li>
+      </ul>
+         
+
+        </div>
+         <div class="col-lg-2 ">
+        	.
+        </div>
+    </div>
+
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+
+<!-- (Optional) Latest compiled and minified JavaScript translation files -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/i18n/defaults-*.min.js"></script>
+
+
+
+
+
+<style>
+.stileone {
+    background: green;
+    font-size: 1px;
+    width: 1px;
+    height: 100px;
+}
+.o1{
+  background: #8CFF00;
+}
+.o2{
+  background:  #90FF00;
+}
+.o3{
+  background: #94FF00;
+}
+.o4{
+  background: #98FF00;
+}
+.o5{
+  background: #9CFF00;
+}
+.o6{
+  background: #A0FF00;
+}
+
+.o7{
+  background: #A4FF00;
+}
+.o8{
+  background: #A8FF00;
+}
+.o9{
+  background:  #ACFF00;
+}
+.o10{
+  background: #B0FF00;
+}
+.o11{
+  background: #B4FF00;
+}
+.o12{
+  background: #B8FF00;
+}
+.o13{
+  background: #BCFF00;
+}
+
+.o14{
+  background: #C0FF00;
+}
+.o15{
+  background: #C4FF00;
+}
+.o16{
+  background: #C8FF00;
+}
+
+.o17{
+  background: #CCFF00;
+}
+.o18{
+  background: #D0FF00;
+}
+.o19{
+  background:  #D4FF00;
+}
+.o20{
+  background: #D8FF00;
+}
+.o21{
+  background: #DCFF00;
+}
+.o22{
+  background: #E0FF00;
+}
+.o23{
+  background: #E4FF00;
+}
+
+.o24{
+  background: #E8FF00;
+}
+.o25{
+  background: #ECFF00;
+}
+.o26{
+  background: #F8FF00;
+}
+
+.o27{
+  background: #FFFC00;
+}
+.o28{
+  background: #FFF800;
+}
+.o29{
+  background:  #FFF400;
+}
+.o30{
+  background: #FFF000;
+}
+.o31{
+  background: #FFEC00;
+}
+.o32{
+  background: #FFE800;
+}
+.o33{
+  background: #FFE400;
+}
+
+.o34{
+  background: #FFE000;
+}
+.o35{
+  background: #FFDC00;
+}
+.o36{
+  background: #FFD800;
+}
+
+.o37{
+  background: #FFD400;
+}
+.o38{
+  background: #FFD000;
+}
+.o39{
+  background:  #FFCC00;
+}
+.o40{
+  background: #FFC800;
+}
+.o41{
+  background: #FFC400;
+}
+.o42{
+  background: #FFC000;
+}
+.o43{
+  background: #FFBC00;
+}
+
+.o44{
+  background: #FFB800;
+}
+.o45{
+  background: #FFB400;
+}
+.o46{
+  background: #FFB000;
+}
+
+.o47{
+  background: #FFAC00;
+}
+.o48{
+  background: #FFA800;
+}
+.o49{
+  background:  #FFA400;
+}
+.o50{
+  background: #FFA000;
+}
+
+.red {
+    background: red
+}
+.redd {
+    background: red
+}
+.row1 {
+    text-align: center;
+}
+.btn {
+    display: inline-block;
+    margin-right: -1px;
+}
+.containerx {
+   
+    font-size: 0px
+}
+
+body {
+  background: #fff;
+  
+  font-family: Helvetica, Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  color: #444;
+}
+
+
+/* GET RID OF LABELS */
+
+.value label {
+  display: none;
+}
+
+
+/* STYLE LABEL TD  */
+
+td.label {
+  font-weight: 700;
+  padding-right: 1em;
+}
+
+
+/* STYLE VALUE RADIO TD */
+
+.value::before {
+  /* content: 'Colour'; */
+  display: block;
+  float: left;
+  margin: 10px 15px 0 0;
+}
+
+
+/* RADIO */
+
+.value input[type="radio"] {
+  position: relative;
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+
+}
+
+
+/* HIDE THE FIRST RADIO GENERATED FROM SELECT OPTIONS */
+
+.value input[type="radio"]:first-child {
+  display: none;
+}
+
+
+
+
+
+
+h3{
+  text-align: center;
+}
+
+
+.align-items-center{
+
+border: 1px solid black;
+
+}
+.textcolor{
+  color: black;
+
+}
+
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  padding-top: 50px;
+  text-align: center;
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+  
+}
+
+.lab{
+	font-size: 10px;
+}
+</style>
+<div class="row">
+	
+        <div class="col-xs-16 ">
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col" style="text-align: right;"">Less</th>
+      <th scope="col" style="text-align: center;"">Scale</th>
+      <th scope="col">More</th>
+     
+    </tr>
+  </thead>
+  <tbody>
+  	  <tr>
+      <th>Quality</th>
+      <th>
+
+<div class='containerx'>
+    <div class='row1'>
+      
+        <div class="stileone o8 btn"></div>
+        <div class="stileone o9 btn"></div>
+        <div class="stileone o10 btn"></div>
+        <div class="stileone o11 btn"></div>
+        <div class="stileone redd btn" ></div>
+         <div class="stileone o13 btn"></div>
+        <div class="stileone o14 btn"></div>
+        <div class="stileone o15 btn"></div>
+        <div class="stileone o16 btn"></div>
+        <div class="stileone o17 btn"></div>
+        <div class="stileone o18 btn"></div>
+        <div class="stileone o19 btn"></div>
+        <div class="stileone o20 btn"></div>
+        <div class="stileone o21 btn"></div>
+        <div class="stileone o22 btn" ></div>
+
+        <div class="stileone o23 btn"></div>
+        <div class="stileone o24 btn" ></div>
+         <div class="stileone o25 btn"></div>
+        <div class="stileone o26 btn"></div>
+        <div class="stileone o27 btn"></div>
+        <div class="stileone o28 btn"></div>
+        <div class="stileone o29 btn"></div>
+        <div class="stileone o30 btn"></div>
+         <div class="stileone o31 btn"></div>
+        <div class="stileone o32 btn" ></div>
+
+        <div class="stileone o33 btn"></div>
+        <div class="stileone o34 btn" ></div>
+         <div class="stileone o35 btn"></div>
+        <div class="stileone o36 btn"></div>
+        <div class="stileone o37 btn"></div>
+        <div class="stileone o38 btn"></div>
+        <div class="stileone o39 btn"></div>
+        <div class="stileone o40 btn"></div>
+         <div class="stileone o41 btn"></div>
+        <div class="stileone o42 btn" ></div>
+
+        <div class="stileone o43 btn"></div>
+        <div class="stileone o44 btn" ></div>
+        
+       
+
+
+
+
+    </div>
+</div>
+</th>
+<th>Quality</th>
+</tr>
+<tr>
+      <th>Location</th>
+      <th>
+
+<div class='containerx'>
+    <div class='row1'>
+      
+        <div class="stileone o8 btn"></div>
+        <div class="stileone o9 btn"></div>
+        <div class="stileone o10 btn"></div>
+        <div class="stileone o11 btn"></div>
+        <div class="stileone o12 btn" ></div>
+         <div class="stileone o13 btn"></div>
+        <div class="stileone o14 btn"></div>
+        <div class="stileone o15 btn"></div>
+        <div class="stileone o16 btn"></div>
+        <div class="stileone o17 btn"></div>
+        <div class="stileone o18 btn"></div>
+        <div class="stileone o19 btn"></div>
+        <div class="stileone o20 btn"></div>
+        <div class="stileone o21 btn"></div>
+        <div class="stileone o22 btn" ></div>
+
+        <div class="stileone o23 btn"></div>
+        <div class="stileone o24 btn" ></div>
+         <div class="stileone o25 btn"></div>
+        <div class="stileone o26 btn"></div>
+        <div class="stileone o27 btn"></div>
+        <div class="stileone o28 btn"></div>
+        <div class="stileone o29 btn"></div>
+        <div class="stileone o30 btn"></div>
+         <div class="stileone o31 btn"></div>
+        <div class="stileone o32 btn" ></div>
+
+        <div class="stileone o33 btn"></div>
+        <div class="stileone o34 btn" ></div>
+         <div class="stileone o35 btn"></div>
+        <div class="stileone o36 btn"></div>
+        <div class="stileone o37 btn"></div>
+        <div class="stileone redd btn"></div>
+        <div class="stileone o39 btn"></div>
+        <div class="stileone o40 btn"></div>
+         <div class="stileone o41 btn"></div>
+        <div class="stileone o42 btn" ></div>
+
+        <div class="stileone o43 btn"></div>
+        <div class="stileone o44 btn" ></div>
+        
+       
+
+
+
+
+    </div>
+</div>
+</th>
+<th>Location</th>
+</tr>
+</tr>
+<tr>
+      <th> Satisfaction</th>
+      <th>
+
+<div class='containerx'>
+    <div class='row1'>
+        <div class="stileone clickk o8 btn"></div>
+        <div class="stileone clickk o9 btn"></div>
+        <div class="stileone clickk o10 btn"></div>
+        <div class="stileone clickk o11 btn"></div>
+        <div class="stileone clickk o12 btn" ></div>
+         <div class="stileone clickk o13 btn"></div>
+        <div class="stileone clickk o14 btn"></div>
+        <div class="stileone clickk o15 btn"></div>
+        <div class="stileone clickk o16 btn"></div>
+        <div class="stileone clickk o17 btn"></div>
+        <div class="stileone clickk o18 btn"></div>
+        <div class="stileone clickk o19 btn"></div>
+        <div class="stileone clickk o20 btn"></div>
+        <div class="stileone clickk o21 btn"></div>
+        <div class="stileone clickk o22 btn" ></div>
+
+        <div class="stileone clickk o23 btn"></div>
+        <div class="stileone clickk o24 btn" ></div>
+         <div class="stileone clickk o25 btn"></div>
+        <div class="stileone clickk o26 btn"></div>
+        <div class="stileone clickk o27 btn"></div>
+        <div class="stileone clickk o28 btn"></div>
+        <div class="stileone clickk o29 btn"></div>
+        <div class="stileone clickk o30 btn"></div>
+         <div class="stileone clickk o31 btn"></div>
+        <div class="stileone clickk o32 btn" ></div>
+
+        <div class="stileone clickk o33 btn"></div>
+        <div class="stileone clickk o34 btn" ></div>
+         <div class="stileone clickk o35 btn"></div>
+        <div class="stileone clickk o36 btn"></div>
+        <div class="stileone clickk o37 btn"></div>
+        <div class="stileone clickk o38 btn"></div>
+        <div class="stileone clickk o39 btn"></div>
+        <div class="stileone clickk o40 btn"></div>
+         <div class="stileone clickk o41 btn"></div>
+        <div class="stileone clickk o42 btn" ></div>
+
+        <div class="stileone clickk o43 btn"></div>
+        <div class="stileone clickk o44 btn" ></div>
+        
+       
+
+
+
+
+    </div>
+</div>
+</th>
+<th> Satisfaction</th>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+  <div class="actions lead site-wrapper">
+    <%= link_to 'Next', scale_index_url, class: 'btn btn-lg btn-secondary' %>
+  </div>
+
+
+<script>
+
+ $(".clickk").on("click", function() {
+    $(this).toggleClass("red");
+    $(".stileone").not(this).removeClass("red");
+
+}); 
+
+
+
+</script>
